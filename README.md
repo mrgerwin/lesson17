@@ -2,7 +2,7 @@
 Using a crop similator to explore Object Oriented Programming
 
 Go to [https://pythonschool.net/oop/creating-your-first-class/](https://pythonschool.net/oop/creating-your-first-class/)
-Create a program called Crops.py and follow the videos on the website to program the crop class.
+Create a program called crop_class.py and follow the videos on the website to program the crop class.
 
 You are responsible for completing Tasks 1-5.  We will skip task 6.
 
